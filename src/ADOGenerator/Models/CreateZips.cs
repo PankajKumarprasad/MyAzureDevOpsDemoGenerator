@@ -4,6 +4,7 @@
     {
         public class FileInfo
         {
+            #2nd changess
             public string Name { get; set; }
             public string Extension { get; set; }
             public Byte[] FileBytes { get; set; }
@@ -11,6 +12,7 @@
 
         public class FolderItem
         {
+            #3rd chnages
             public string Name { get; set; }
             public string Extension { get; set; }
             public Byte[] FileBytes { get; set; }
